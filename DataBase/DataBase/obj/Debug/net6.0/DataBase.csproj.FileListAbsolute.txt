@@ -1,0 +1,14 @@
+D:\UrlShorter\DataBase\DataBase\bin\Debug\net6.0\DataBase.deps.json
+D:\UrlShorter\DataBase\DataBase\bin\Debug\net6.0\DataBase.runtimeconfig.json
+D:\UrlShorter\DataBase\DataBase\bin\Debug\net6.0\DataBase.dll
+D:\UrlShorter\DataBase\DataBase\bin\Debug\net6.0\DataBase.pdb
+D:\UrlShorter\DataBase\DataBase\obj\Debug\net6.0\DataBase.csproj.AssemblyReference.cache
+D:\UrlShorter\DataBase\DataBase\obj\Debug\net6.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\UrlShorter\DataBase\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfoInputs.cache
+D:\UrlShorter\DataBase\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfo.cs
+D:\UrlShorter\DataBase\DataBase\obj\Debug\net6.0\DataBase.csproj.CoreCompileInputs.cache
+D:\UrlShorter\DataBase\DataBase\obj\Debug\net6.0\DataBase.dll
+D:\UrlShorter\DataBase\DataBase\obj\Debug\net6.0\refint\DataBase.dll
+D:\UrlShorter\DataBase\DataBase\obj\Debug\net6.0\DataBase.pdb
+D:\UrlShorter\DataBase\DataBase\obj\Debug\net6.0\DataBase.genruntimeconfig.cache
+D:\UrlShorter\DataBase\DataBase\obj\Debug\net6.0\ref\DataBase.dll
