@@ -16,7 +16,7 @@ public class Program
 
         var shortUrl = new UrlTable
         {
-            OriginalUrl = " t2",
+            OriginalUrl = " t7",
             UserId = 3
         };
        
@@ -24,7 +24,10 @@ public class Program
         var u = new UnitOfWork(db);
         //u.UserRepository.AddUser("Alina","90-60-90");
         //Console.WriteLine("Done");
-        u.UrlRepository.AddUrl("t2",3,shortUrl);
+        //u.UrlRepository.AddUrl("t7",3,shortUrl);
+        //u.UrlRepository.RemoveUrl(20);
+        //u.UserRepository.DeleteUser(4);
+        var s = new UserService();
 
     }
 }

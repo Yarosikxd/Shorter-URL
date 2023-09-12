@@ -6355,19 +6355,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\robot\\.nuget\\packages\\": {}
+    "C:\\Users\\Yarosik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UrlShorter\\DataBase\\DataBase\\DataBase.csproj",
+      "projectUniqueName": "D:\\UrlShorter\\Shorter-URL\\DataBase\\DataBase\\DataBase.csproj",
       "projectName": "DataBase",
-      "projectPath": "D:\\UrlShorter\\DataBase\\DataBase\\DataBase.csproj",
-      "packagesPath": "C:\\Users\\robot\\.nuget\\packages\\",
-      "outputPath": "D:\\UrlShorter\\DataBase\\DataBase\\obj\\",
+      "projectPath": "D:\\UrlShorter\\Shorter-URL\\DataBase\\DataBase\\DataBase.csproj",
+      "packagesPath": "C:\\Users\\Yarosik\\.nuget\\packages\\",
+      "outputPath": "D:\\UrlShorter\\Shorter-URL\\DataBase\\DataBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\robot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yarosik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
