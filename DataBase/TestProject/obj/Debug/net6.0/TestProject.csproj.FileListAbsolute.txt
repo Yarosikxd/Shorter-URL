@@ -250,3 +250,5 @@ D:\UrlShorter\Shorter-URL\DataBase\TestProject\obj\Debug\net6.0\refint\TestProje
 D:\UrlShorter\Shorter-URL\DataBase\TestProject\obj\Debug\net6.0\TestProject.pdb
 D:\UrlShorter\Shorter-URL\DataBase\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
 D:\UrlShorter\Shorter-URL\DataBase\TestProject\obj\Debug\net6.0\ref\TestProject.dll
+D:\UrlShorter\Shorter-URL\DataBase\TestProject\bin\Debug\net6.0\Logic.dll
+D:\UrlShorter\Shorter-URL\DataBase\TestProject\bin\Debug\net6.0\Logic.pdb

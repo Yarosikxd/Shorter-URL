@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DataBase\DataBase.csproj" />
+    <ProjectReference Include="..\logic\Logic.csproj" />
   </ItemGroup>
 
 </Project>

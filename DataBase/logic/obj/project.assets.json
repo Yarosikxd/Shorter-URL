@@ -1883,19 +1883,6 @@
         "runtime": {
           "bin/placeholder/DataBase.dll": {}
         }
-      },
-      "TestProject/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "DataBase": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/TestProject.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TestProject.dll": {}
-        }
       }
     }
   },
@@ -6185,17 +6172,11 @@
       "type": "project",
       "path": "../DataBase/DataBase.csproj",
       "msbuildProject": "../DataBase/DataBase.csproj"
-    },
-    "TestProject/1.0.0": {
-      "type": "project",
-      "path": "../TestProject/TestProject.csproj",
-      "msbuildProject": "../TestProject/TestProject.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "DataBase >= 1.0.0",
-      "TestProject >= 1.0.0"
+      "DataBase >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6227,9 +6208,6 @@
           "projectReferences": {
             "D:\\UrlShorter\\Shorter-URL\\DataBase\\DataBase\\DataBase.csproj": {
               "projectPath": "D:\\UrlShorter\\Shorter-URL\\DataBase\\DataBase\\DataBase.csproj"
-            },
-            "D:\\UrlShorter\\Shorter-URL\\DataBase\\TestProject\\TestProject.csproj": {
-              "projectPath": "D:\\UrlShorter\\Shorter-URL\\DataBase\\TestProject\\TestProject.csproj"
             }
           }
         }

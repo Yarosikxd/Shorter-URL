@@ -1,0 +1,15 @@
+D:\UrlShorter\Shorter-URL\DataBase\logic\bin\Debug\net6.0\Logic.deps.json
+D:\UrlShorter\Shorter-URL\DataBase\logic\bin\Debug\net6.0\Logic.dll
+D:\UrlShorter\Shorter-URL\DataBase\logic\bin\Debug\net6.0\Logic.pdb
+D:\UrlShorter\Shorter-URL\DataBase\logic\bin\Debug\net6.0\DataBase.dll
+D:\UrlShorter\Shorter-URL\DataBase\logic\bin\Debug\net6.0\DataBase.pdb
+D:\UrlShorter\Shorter-URL\DataBase\logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+D:\UrlShorter\Shorter-URL\DataBase\logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\UrlShorter\Shorter-URL\DataBase\logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+D:\UrlShorter\Shorter-URL\DataBase\logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+D:\UrlShorter\Shorter-URL\DataBase\logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+D:\UrlShorter\Shorter-URL\DataBase\logic\obj\Debug\net6.0\Logic.csproj.CopyComplete
+D:\UrlShorter\Shorter-URL\DataBase\logic\obj\Debug\net6.0\Logic.dll
+D:\UrlShorter\Shorter-URL\DataBase\logic\obj\Debug\net6.0\refint\Logic.dll
+D:\UrlShorter\Shorter-URL\DataBase\logic\obj\Debug\net6.0\Logic.pdb
+D:\UrlShorter\Shorter-URL\DataBase\logic\obj\Debug\net6.0\ref\Logic.dll

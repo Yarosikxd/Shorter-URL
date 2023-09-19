@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "TestProject/1.0.0": {
         "dependencies": {
-          "DataBase": "1.0.0"
+          "DataBase": "1.0.0",
+          "Logic": "1.0.0"
         },
         "runtime": {
           "TestProject.dll": {}
@@ -1099,6 +1100,14 @@
         "runtime": {
           "DataBase.dll": {}
         }
+      },
+      "Logic/1.0.0": {
+        "dependencies": {
+          "DataBase": "1.0.0"
+        },
+        "runtime": {
+          "Logic.dll": {}
+        }
       }
     }
   },
@@ -1865,6 +1874,11 @@
       "hashPath": "timezoneconverter.6.1.0.nupkg.sha512"
     },
     "DataBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

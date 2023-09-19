@@ -1,0 +1,65 @@
+﻿@using DataBase.Models.ViewModels;
+@model List<UrlTableViewModel>
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+
+
+<h1>URL List</h1>
+<table>
+    <tr>
+        
+        <th>Original URL</th>
+        <th>Short URL</th>
+        <th>Creation Date</th>
+        
+       @*  @if (User.Identity.IsAuthenticated)
+        { *@
+            <th>Actions</th>
+        @* } *@
+    </tr>
+    @foreach (var url in Model)
+    {
+        <tr>
+           
+            <td>@url.OriginalUrl</td>
+            <td>@url.ShortUrl</td>
+            <td>@url.CreationDate</td>
+           
+           @*  @if (User.Identity.IsAuthenticated)
+            {
+                @if (url.AllowDelete)
+                { *@
+                    <td>
+                        <form method="get" action="/TableUrl/Delete">
+                            <input type="hidden" name="urlId" value="@url.Id" />
+                            <input type="submit" value="Delete" />
+                        </form>
+                    </td>
+           @*      }
+                
+            } *@
+            
+                 
+        </tr>
+    }
+</table>
+
+<div style="position: fixed; right: 25px; bottom: 70px;" class="text-white">
+    <a asp-controller="TableUrl" asp-action="Create" class="btn btn-success">
+        <i class="bi bi-plus-circle"></i> Add new
+    </a>
+</div>

@@ -2,6 +2,7 @@
 using DataBase.Base.Repository;
 using DataBase.Base.UnitOfWork;
 using DataBase.Models;
+using Logic.Services;
 using Microsoft.EntityFrameworkCore;
 
 public class Program
@@ -27,7 +28,8 @@ public class Program
         //u.UrlRepository.AddUrl("t7",3,shortUrl);
         //u.UrlRepository.RemoveUrl(20);
         //u.UserRepository.DeleteUser(4);
-        var s = new UserService();
+        var s = new UserService(db);
+        s.AddUser("Anton","8,99");
 
     }
 }
